@@ -1,0 +1,108 @@
+nav {
+  background-color: #1566df !important;
+  width: 100% !important;
+  height: auto;
+  max-width: 100% !important;
+}
+
+nav .icon {
+  color: rgb(246, 172, 77) !important;
+}
+
+nav .logoo {
+  font-weight: bold !important;
+}
+/*Car Logo*/
+.loader .name {
+  margin-top: 15px !important;
+  letter-spacing: 0.2rem;
+}
+nav a {
+  margin-left: 20px !important;
+  color: black !important;
+  font-size: 20px;
+  font-weight: 550 !important;
+}
+
+nav a:hover {
+  color: rgb(246, 172, 77) !important;
+}
+
+nav #lastnav {
+  color: rgba(128, 128, 128, 0.479) !important;
+}
+
+nav #lastnav:hover {
+  color: rgb(246, 172, 77) !important;
+}
+#lastnav i {
+  color: rgb(246, 172, 77);
+}
+nav {
+  background-color: #095992 !important;
+  width: 100% !important;
+  height: auto;
+  max-width: 100% !important;
+}
+
+nav .icon {
+  color: rgb(246, 172, 77) !important;
+}
+
+nav .logoo {
+  font-weight: bold !important;
+}
+/*Car Logo*/
+.loader .name {
+  margin-top: 15px !important;
+  letter-spacing: 0.2rem;
+}
+nav a {
+  margin-left: 20px !important;
+  color: black !important;
+  font-size: 20px;
+  font-weight: 550 !important;
+}
+
+nav a:hover {
+  color: rgb(246, 172, 77) !important;
+}
+
+nav #lastnav {
+  color: rgba(128, 128, 128, 0.479) !important;
+}
+
+nav #lastnav:hover {
+  color: rgb(246, 172, 77) !important;
+}
+#lastnav i {
+  color: rgb(246, 172, 77);
+}
+.imm{
+  width: 100px !important;
+  margin-right: 0px !important;
+}
+.nav-link{
+  color: white !important;
+}
+.nav-link:hover{
+  color: rgb(221, 158, 9) !important;
+  border-bottom: solid 2px orange !important;
+}
+.nav-link:focus{
+  color: orange !important;
+  border-bottom: solid 1px orange !important;
+}
+.admission {
+  
+  background-color: rgb(201, 65, 24);
+  color: white;
+  padding-bottom:5px ;
+  /* padding: 2px 5px 2px 2px; */
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  border: none !important;
+  border-top-right-radius: 9px;
+  cursor: pointer;
+}
